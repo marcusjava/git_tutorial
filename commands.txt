@@ -1,0 +1,2 @@
+Verificar repositorio conectado
+git remote -v
