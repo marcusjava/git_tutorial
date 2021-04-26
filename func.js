@@ -1,7 +1,5 @@
-function double(x){
-  return x * 3
-
+function double(x) {
+  return x * 2;
 }
 
-
-double(2)
+double(2);
